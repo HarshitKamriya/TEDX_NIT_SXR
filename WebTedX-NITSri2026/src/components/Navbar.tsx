@@ -16,6 +16,7 @@ export default function Navbar() {
       { id: "story", label: "Theme Story" },
       { id: "timeline", label: "Timeline" },
       { id: "speakers", label: "Speakers" },
+      { id: "pastspeakers", label: "Past Speakers" },
       { id: "stats", label: "Stats" },
       { id: "sponsors", label: "Sponsors" },
       { id: "gallery", label: "Gallery" },

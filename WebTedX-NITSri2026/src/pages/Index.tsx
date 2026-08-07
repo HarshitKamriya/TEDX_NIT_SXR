@@ -6,6 +6,7 @@ import Hero from "@/components/Hero";
 import ThemeStory from "@/components/ThemeStory";
 import TimelineEditions from "@/components/TimelineEditions";
 import Speakers from "@/components/Speakers";
+import PastSpeakers from "@/components/PastSpeakers";
 import StatisticsCounter from "@/components/StatisticsCounter";
 import Sponsors from "@/components/Sponsors";
 import Gallery from "@/components/Gallery";
@@ -44,6 +45,9 @@ export default function Index() {
 
         {/* 4. Featured Speakers Section */}
         <Speakers />
+
+        {/* 4b. Past Speakers Alumni Section */}
+        <PastSpeakers />
 
         {/* 5. Statistics Counters */}
         <StatisticsCounter />
