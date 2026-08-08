@@ -1,0 +1,1 @@
+This repo contains basic structure how website should look like .
